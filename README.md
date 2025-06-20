@@ -1,1 +1,1 @@
-![Обложка](github pucture.png).
+
