@@ -1,1 +1,1 @@
-![Обложка](github.png)
+![Обложка](logo_github01.png)
